@@ -1,0 +1,1 @@
+[Chapter 3](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/ch03.html#managing_domain_complexity)
