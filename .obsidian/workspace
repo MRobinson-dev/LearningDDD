@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "14bf96d4a3a4acf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "55040c8ba8eec21d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 01 - Analyzing Business Domains.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c395adb225f8e8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2516f1ca81ae5414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7aa54814df0bb5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d58adda0840f5353",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1f55bc55a826fb5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e90343c3c103cd1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "340553f63b50014e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc7c090912e19a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 01 - Analyzing Business Domains.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1dcd45cfb61c61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 01 - Analyzing Business Domains.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65b717f6b26be677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5179dec05740482a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 01 - Analyzing Business Domains.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55040c8ba8eec21d",
+  "lastOpenFiles": [
+    "A Summary of the Chapters (with links).md",
+    "Chapter 01 - Analyzing Business Domains.md",
+    "Chapter 02 - Discovering Domain Knowledge.md",
+    "README.md"
+  ]
+}
