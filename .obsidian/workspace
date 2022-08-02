@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 01 - Analyzing Business Domains.md",
+            "file": "Chapter 02 - Discovering Domain Knowledge.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 01 - Analyzing Business Domains.md",
+                "file": "Chapter 02 - Discovering Domain Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 01 - Analyzing Business Domains.md",
+                "file": "Chapter 02 - Discovering Domain Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 01 - Analyzing Business Domains.md"
+                "file": "Chapter 02 - Discovering Domain Knowledge.md"
               }
             }
           }
@@ -130,11 +130,11 @@
   },
   "active": "55040c8ba8eec21d",
   "lastOpenFiles": [
+    "Chapter 01 - Analyzing Business Domains.md",
+    "Chapter 02 - Discovering Domain Knowledge.md",
     "A Summary of the Chapters (with links).md",
     "Chapter 04 - Integrating Bounded Contexts.md",
     "Chapter 03 - Managing Domain Complexity.md",
-    "Chapter 01 - Analyzing Business Domains.md",
-    "Chapter 02 - Discovering Domain Knowledge.md",
     "README.md"
   ]
 }

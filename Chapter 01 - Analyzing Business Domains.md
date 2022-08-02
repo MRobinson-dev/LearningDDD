@@ -1,9 +1,5 @@
 # Chapter 1. Analyzing Business Domains
-[Read Chapter 1 on O'Reilly](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/ch01.html#analyzing_business_domains)
-
-What is the main point of this chapter
-Why this chapter is important
-What are the key take-aways of this chapter
+ [Read Chapter 1 on O'Reilly](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/ch01.html#analyzing_business_domains)
 
 ---
 ## Business Domains and Subdomains:
@@ -37,3 +33,5 @@ In this example, distilling the generic help desk system does not show us any no
 
 *Note that an important consideration is, when identifying the inner subdomains, whether we need all of them, or can the same solution be utilized by other generic subdomains.  Does another department require a help desk system as well?  if so, can they use the same platform?*
 
+## Domain Experts
+Domain experts are subject matter experts who know all the intricacies of the business that we are going to model and implement in code. They are knowledge authorities in the software’s business domain.  They are not analysts nor are they developert.  They represent the business.

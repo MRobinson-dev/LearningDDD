@@ -1,11 +1,15 @@
 # Part I. Strategic Design
 *There is no sense in talking about the solution before we agree on the problem, and no sense talking about the implementation steps before we agree on the solution. ~ Efrat Goldratt-Ashlag
 
--   [[Chapter 01 - Analyzing Business Domains]] establishes the context of a software engineering project: the business domain, its goals, and how the software is intended to support them.
+-   [[Chapter 01 - Analyzing Business Domains]] establishes the context of a software engineering project: the business domain, its goals, and how the software is intended to support them. 
+	- [x] read & notes complete
 - [[Chapter 02 - Discovering Domain Knowledge]]  Introduces the notion of a “ubiquitous language”: domain-driven design’s practice for effective communication and knowledge sharing.
+	- [ ] read & notes complete
 - [[Chapter 03 - Managing Domain Complexity ]]  discusses how to tackle the complexity of business domains and design the system’s high-level architectural components: bounded contexts.
+	- [ ] read & notes complete
 - [[Chapter 04 - Integrating Bounded Contexts]] explores the different patterns of organizing the communication and integration between the bounded contexts.
-     
+	- [ ] read & notes complete
+  
 
 # Part II. Tactical Design
 -   [Chapter 5](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/ch05.html#implementing_simple_business_logic) starts the discussion of business logic implementation patterns with two patterns addressing the cases of simple business logic.
