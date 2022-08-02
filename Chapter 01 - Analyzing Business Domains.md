@@ -15,10 +15,11 @@ What are the key take-aways of this chapter
 **Core Subdomain (aka Core Domain)**  - Business Activities that support the business and are a source of competitive advantage.  This is something a company does differently from its competitors,  is hard for a competitor to copy or imitate the company's solution and therefore has complexity.
 *Example:  Google Search - this is not a paid service but the search engine is an important component of the Google Ads product*
 
-**Generic Subdomain** - Business Activites that support the business and all companies are performing in the same way.
+**Generic Subdomain** - Business Activites that support the business, is generic (all companies are performing in the same way) and does not provide any competitive advantage.
 *Example: An online retail platform used by many companies*
 
-**Supporting Subdomains** - Business Activites that support the business, are not generic but also do not provide any competitive advantage
+**Supporting Subdomains** - Business Activites that support the business, are not generic but also do not provide any competitive advantage.
+*Example: Indexing a catalog of the compay's creative materials for use with Google Ads*
 
 
 
