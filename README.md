@@ -10,6 +10,9 @@ notes and work through of the book Learning Domain Driven Design by Vlad Khonono
 Author's Summary of the Learning Domain Driven Design book (pre-publishing) 
 - [What Is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/)
 
+### Articles
+- [Martin Fower's writeup on DDD](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+
 ### Books:
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](https://learning.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
 - [Domain-Driven Design Distilled](https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)
